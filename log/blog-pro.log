@@ -1,0 +1,4 @@
+2020-09-04 21:50:14.353  INFO 7232 --- [restartedMain] com.jxau.BlogApplication                 : Starting BlogApplication on PC-20180206VFSO with PID 7232 (D:\IdeaFile\IDEAProject\blog\target\classes started by Administrator in D:\IdeaFile\IDEAProject\blog)
+2020-09-04 21:50:14.359  INFO 7232 --- [restartedMain] com.jxau.BlogApplication                 : The following profiles are active: pro
+2020-09-04 21:50:16.471  WARN 7232 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-09-04 21:50:16.944  INFO 7232 --- [restartedMain] com.jxau.BlogApplication                 : Started BlogApplication in 3.859 seconds (JVM running for 5.585)
